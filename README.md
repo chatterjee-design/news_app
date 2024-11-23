@@ -34,13 +34,6 @@ To improve the readability and presentation of the news articles, timestamps are
 
 Additionally, the app is optimized for smooth UI performance by reducing unnecessary widget rebuilds and using efficient layout structures to ensure fast rendering times.
 
-## Future Improvements
-
-- **Real-Time Data Syncing:** We plan to implement real-time syncing of articles with Firebase so that the app can reflect new articles as soon as they are available.
-- **Push Notifications:** To further enhance the user experience, we plan to add push notifications to notify users of breaking news or important updates.
-- **Improved Caching:** We aim to enhance the caching mechanism with more sophisticated strategies, such as caching articles for longer durations or adding an expiration time for cached data.
-- **Performance Monitoring:** We will monitor the app’s performance and make improvements based on user feedback, focusing on faster loading times and a more responsive UI.
-
 ## Conclusion
 
 By implementing caching strategies, asynchronous data fetching, and image optimization, the app provides a smooth and efficient user experience. These performance optimizations ensure that users can access the latest news articles quickly, even when they have limited or no internet connectivity. Future enhancements will continue to improve the app's performance, reliability, and usability.
